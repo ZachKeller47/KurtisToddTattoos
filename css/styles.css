@@ -206,7 +206,7 @@ body {
 
 .main {
     height: 120vh;
-    background: #252525;
+    background-color: black;
     color: white;
     padding: 10rem 0;
 }
@@ -251,7 +251,7 @@ body {
 
 @media screen and (max-width: 400px) {
    .main {
-       height: 128vh;
+       height: 148vh;
    }
 }
 
