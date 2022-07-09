@@ -244,6 +244,7 @@ body {
 }
 
 .main__img--card img {
+    padding-top: 50px;
     border-radius: 20px;
     height: 300px;
     width: 300px;
